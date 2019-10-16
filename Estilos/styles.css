@@ -26,3 +26,11 @@ body {
 .textBold {
   font-weight: bold;
 }
+
+#footer{
+  color: #fff;
+  background: rgb(78, 104, 252);
+  padding: 30px;
+  align-content: center;
+  justify-content: center;
+}
