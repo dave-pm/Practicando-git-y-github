@@ -16,3 +16,7 @@ body {
   color: rgb(78, 104, 252);
   font-size: 20px;
 }
+
+.textBold {
+    font-weight: bold;
+}
