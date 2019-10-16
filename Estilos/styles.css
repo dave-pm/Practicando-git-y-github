@@ -1,21 +1,28 @@
 body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-color: #333;
+  color: #fff;
   margin: 0;
   padding: 0;
+  background:  #fff;
+}
+
+#logo-img {
+  width: 100px;
 }
 
 .container {
   width: 70%;
   padding: 1em;
-  border: 1px solid rgb(78, 104, 252);
-  margin:50px auto;
+  border: 1px solid #4d65fb;
+  border-radius: 30px;
+  margin: 50px auto;
+  background:  #4d65fb;
 }
 .container h1 {
-  color: rgb(78, 104, 252);
+  color:  #fff;
 }
 
 .textBold {
-    font-weight: bold;
+  font-weight: bold;
 }
